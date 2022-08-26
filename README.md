@@ -1,8 +1,8 @@
 # DemandForecasting
 
-Objective: The main objective of this project is to forecast yearlong demand of an agricultural product. This would help farmers manage risk and fix the market price for the product in the market based on the harvest
+Objective: The main objective of this project is to forecast year-long demand of an agricultural product. This would help farmers manage risk and fix the market price for the product in the market based on the harvest
 
-1.Built a multi-level forecasting engine to obtain yearlong forecasts for an agricultural product in 10 different regions using univariate and multivariate statistical models
+1.Built a multi-level forecasting engine to obtain year-long forecasts for an agricultural product in 10 different regions using univariate and multivariate statistical models
 
 2.I have used MAPE score and R2 score as my performance metrics.
 
